@@ -724,6 +724,144 @@
 #define HOOPA 0x2D0
 
 /* Megas and forms here. */
-#define GIRATINA_O 0x2D1
+#define UNNOWN_A 0x2D1
+#define UNNOWN_B 0x2D2
+#define UNNOWN_C 0x2D3
+#define UNNOWN_D 0x2D4
+#define UNNOWN_E 0x2D5
+#define UNNOWN_F 0x2D6
+#define UNNOWN_G 0x2D7
+#define UNNOWN_H 0x2D8
+#define UNNOWN_I 0x2D9
+#define UNNOWN_J 0x2DA
+#define UNNOWN_K 0x2DB
+#define UNNOWN_L 0x2DC
+#define UNNOWN_M 0x2DD
+#define UNNOWN_N 0x2DE
+#define UNNOWN_O 0x2DF
+#define UNNOWN_P 0x2E0
+#define UNNOWN_Q 0x2E1
+#define UNNOWN_R 0x2E2
+#define UNNOWN_S 0x2E3
+#define UNNOWN_T 0x2E4
+#define UNNOWN_U 0x2E5
+#define UNNOWN_V 0x2E6
+#define UNNOWN_W 0x2E7
+#define UNNOWN_X 0x2E8
+#define UNNOWN_Y 0x2E9
+#define UNNOWN_Z 0x2EA
+
+#define CASTFORM_SUN 0x2EB
+#define CASTFORM_SNOW 0x2EC
+#define CASTFORM_RAIN 0x2ED
+
+#define DEOXYS_A 0x2EF
+#define DEOXYS_D 0x2F0
+#define DEOXYS_S 0x2F1
+
+#define BURMY_P 0x2F2
+#define BURMY_S 0x2F3
+#define BURMY_T 0x2F4
+
+#define WORMADAM_P 0x2F5
+#define WORMADAM_S 0x2F6
+#define WORMADAM_T 0x2F7
+
+#define CHERRIM_O 0x2F8
+#define CHERRIM_S 0x2F9
+
+#define SHELLOS_W 0x2FA
+#define SHELLOS_E 0x2FB
+
+#define GASTRODON_W 0x2FC
+#define GASTRODON_E 0x2FD
+
+#define ROTOM_MOW 0x2FE
+#define ROTOM_HEAT 0x2FF
+#define ROTOM_WASH 0x300
+#define ROTOM_FROST 0x301
+#define ROTOM_FAN 0x302
+
+#define GIRATINA_O 0x303
+
+#define SHAYMIN_S 0x304
+
+#define ARCEUS_FIRE 0x305
+#define ARCEUS_WATER 0x306
+#define ARCEUS_ELECTRIC 0x307
+#define ARCEUS_GRASS 0x308
+#define ARCEUS_ICE 0x309
+#define ARCEUS_FIGHTING 0x30A
+#define ARCEUS_POISON 0x30B
+#define ARCEUS_GROUND 0x30C
+#define ARCEUS_FLYING 0x30D
+#define ARCEUS_PSYCHIC 0x30E
+#define ARCEUS_BUG 0x30F
+#define ARCEUS_ROCK 0x310
+#define ARCEUS_GHOST 0x311
+#define ARCEUS_DRAGON 0x312
+#define ARCEUS_DARK 0x313
+#define ARCEUS_STEEL 0x314
+#define ARCEUS_FAIRY 0x315
+
+#define BASCULIN_B 0x316
+#define BASCULIN_R 0x317
+
+#define DARMANITAN_Z 0x318
+
+//For Deerling and Sawsbuck, I assumed spring-form to be the standard form
+#define DEERLING_S 0x319
+#define DEERLING_W 0x31A
+#define DEERLING_A 0x31B
+
+#define SAWSBUCK_S 0x31C
+#define SAWSBUCK_W 0x31D
+#define SAWSBUCK_A 0x31E
+
+#define TORNADUS_T 0x31F
+
+#define THUNDURUS_T 0x320
+
+#define LANDORUS_T 0x321
+
+#define KYUREM_W 0x322
+#define KYUREM_B 0x323
+
+#define MELOETTA_P 0x324
+
+#define GENESECT_S 0x325
+#define GENESECT_B 0x326
+#define GENESECT_C 0x327
+#define GENESECT_D 0x328
+
+#define FLABEBE_Y 0x329
+#define FLABEBE_O 0x32A
+#define FLABEBE_B 0x32B
+#define FLABEBE_W 0x32C
+
+#define FLOETTE_Y 0x32D
+#define FLOETTE_O 0x32E
+#define FLOETTE_B 0x32F
+#define FLOETTE_W 0x330
+
+#define FLORGES_Y 0x331
+#define FLORGES_O 0x332
+#define FLORGES_B 0x333
+#define FLORGES_W 0x334
+
+#define AEGISLASH_B 0x335
+
+//Pumpkaboo and Gourgeist assumer typical size is small
+#define PUMPKABOO_A 0x336
+#define PUMPKABOO_L 0x337
+#define PUMPKABOO_S 0x338
+
+#define GOURGEIST_A 0x339
+#define GOURGEIST_L 0x33A
+#define GOURGEIST_S 0x33B
+
+#define HOOPA_U 0x33C
+
+#define KELDEO_R 0x33D
 
 #endif /* POKEMON_IDS_H */
