@@ -851,7 +851,7 @@
 
 #define AEGISLASH_B 0x335
 
-//Pumpkaboo and Gourgeist assumer typical size is small
+//Pumpkaboo and Gourgeist assume typical size is small
 #define PUMPKABOO_A 0x336
 #define PUMPKABOO_L 0x337
 #define PUMPKABOO_S 0x338
