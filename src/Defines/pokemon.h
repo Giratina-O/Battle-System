@@ -864,4 +864,55 @@
 
 #define KELDEO_R 0x33D
 
+#define VENUSAUR_M 0x33E
+#define BLASTOISE_M 0x33F
+#define CHARIZARD_X 0x340
+#define CHARIZARD_Y 0x341
+#define ALAKAZAM_M 0x342
+#define GENGAR_M 0x343
+#define KANGASKHAN_M 0x344
+#define PINSIR_M 0x345
+#define GYARADOS_M 0x346
+#define AERODACTYL_M 0x347
+#define MEWTWO_X 0x348
+#define MEWTWO_Y 0x349
+#define AMPHAROS_M 0x34A
+#define SCIZOR_M 0x34B
+#define HERACROSS_M 0x34C
+#define HOUNDOOM_M 0x34D
+#define TYRANITAR_M 0x34E
+#define BLAZIKEN_M 0x34F
+#define GARDEVOIR_M 0x350
+#define MAWILE_M 0x351
+#define AGGRON_M 0x352
+#define MEDICHAM_M 0x353
+#define MANECTRIC_M 0x354
+#define ABSOL_M 0x355
+#define BANETTE_M 0x356
+#define GARCHOMP_M 0x357
+#define LUCARIO_M 0x358
+#define ABOMASNOW_M 0x359
+#define BEEDRILL_M 0x35A
+#define PIDEOT_M 0x35B
+#define SLOWBRO_M 0x35C
+#define STEELIX_M 0x35D
+#define SWAMPERT_M 0x35E
+#define SCEPTILE_M 0x35F
+#define SABLEYE_M 0x360
+#define SHARPEDO_M 0x361
+#define CAMERUPT_M 0x362
+#define ALTARIA_M 0x363
+#define GLALIE_M 0x364
+#define SALAMENCE_M 0x365
+#define METAGROSS_M 0x366
+#define LATIAS_M 0x367
+#define LATIOS_M 0x368
+#define RAYQUAZA_M 0x369
+#define LOPUNNY_M 0x36A
+#define GALLADE_M 0x36B
+#define AUDINO_M 0x36C
+#define DIANCIE_M 0x36D
+#define KYOGRE_P 0x36E
+#define GROUDON_P 0x36F
+
 #endif /* POKEMON_IDS_H */
